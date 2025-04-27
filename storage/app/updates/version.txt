@@ -1,0 +1,4 @@
+{
+    "version": "1.0.0",
+    "update_url": "http:\/\/24.199.88.131\/updates\/update.zip"
+}
